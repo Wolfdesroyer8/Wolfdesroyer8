@@ -1,6 +1,42 @@
-# Sup!
-I'm Julian, a programer that loves cubing and 
+# Sup! :wave:
 
-- - - -
+I'm Julian, a programer that loves cubing and snowboarding! My current favorite lanauge is Javascript but I have more expirence with c++
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolfdesroyer8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## :tada: My Goals for 2021 :tada:
+
+- Become one with Javascript
+- Learn Typescript
+- Learn React
+- Learn Scss
+
+---
+
+## :boom: My Coding Lanauges Arsenal :boom:
+
+- C++
+- Javascript
+- Python
+- HTML
+- CSS
+- Rust
+
+---
+
+## :muscle: My Skills :muscle:
+
+- Git (I don't joke around with my branches)
+- Bash
+- VsCode
+- Batch
+- Make
+- Linux Master Race
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfdesroyer8&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
