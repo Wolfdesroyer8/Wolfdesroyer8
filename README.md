@@ -1,6 +1,6 @@
 # Sup! :wave:
 
-I'm Julian, a programer that loves cubing and snowboarding! My current favorite lanauge is Javascript but I have more expirence with c++
+I'm Julian, a programer that loves cubing and snowboarding! My favorite is c++ but i'm learning rust!
 
 ---
 
