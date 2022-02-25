@@ -1,6 +1,6 @@
 # Sup! :wave:
 
-I'm Julian, a programer that loves cubing and snowboarding! My favorite is c++ but i'm learning rust!
+I'm Julian, a programer that loves cubing and snowboarding! My favorite langauge is c++ but i'm currently learning rust!
 
 ---
 
