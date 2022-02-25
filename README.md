@@ -8,12 +8,10 @@ I'm Julian, a programer that loves cubing and snowboarding! My favorite langauge
 ![somebodys's GitHub stats](https://github-profile-trophy.vercel.app/?username=Wolfdesroyer8&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true)
 ---
 
-## :tada: My Goals for 2021 :tada:
+## :tada: My Goals for 2022 :tada:
 
-- Become one with Javascript
-- Learn Typescript
-- Learn React
-- Learn Scss
+- Learn rust for low level programming
+- Get beter with neovim
 
 ---
 
