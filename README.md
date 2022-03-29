@@ -30,7 +30,7 @@ I'm Julian, a programer that loves cubing and snowboarding! My favorite langauge
 
 - Git (I don't joke around with my branches)
 - Bash
-- VsCode
+- Neovim
 - Make
 - Linux Master Race
 
