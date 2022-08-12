@@ -5,7 +5,6 @@ I'm Julian, a programer that loves cubing and snowboarding! My favorite langauge
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolfdesroyer8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-![somebodys's GitHub stats](https://github-profile-trophy.vercel.app/?username=Wolfdesroyer8&theme=onedark&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true)
 ---
 
 ## :tada: My Goals for 2022 :tada:
